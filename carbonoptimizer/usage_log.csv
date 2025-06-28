@@ -1,0 +1,10 @@
+timestamp,city,beef,chicken,car,electricity,total_emission
+2025-06-14 12:15:44,Bursa,3,3,Dizel,4,103.375
+2025-06-14 12:16:00,Ankara,7,8,Elektrik,9,247.884
+2025-06-14 12:50:50,İstanbul,4,5,Benzin,5,144.668
+2025-06-14 14:05:48,Adıyaman,4,4,Benzin,3,136.90499999999997
+2025-06-14 14:07:21,Adıyaman,5,6,Benzin,7,179.32600000000002
+2025-06-14 14:12:45,Afyonkarahisar,6,6,Benzin,5,205.568
+2025-06-14 14:23:13,Adıyaman,4,4,Benzin,3,136.79999999999998
+2025-06-14 14:25:14,İstanbul,4,5,Benzin,6,145.068
+2025-06-14 14:37:07,İstanbul,4,4,Benzin,3,136.86299999999997
